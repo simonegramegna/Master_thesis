@@ -6,4 +6,6 @@
 *.out
 *.lot
 *.log
+*.blg
+*.bbl
 main-blx.bib
